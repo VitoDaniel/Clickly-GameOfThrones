@@ -25,4 +25,4 @@ This app is a memory game with React. The idea of the game is to click on the ca
 
 ## Deployment
 
-Visit live on Heroku : 
+Visit live on Heroku : https://clicky-gameofthrones.herokuapp.com/
